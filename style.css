@@ -1,0 +1,47 @@
+@font-face {
+   font-family: "shopping";
+   src: url('https://dl.dropboxusercontent.com/s/mbyg0g1cianbljw/Shopping%20Script%20Demo.ttf');
+   format("truetype");
+}
+
+#sexandguns {
+   width: 500px;
+   height: auto;
+   margin-top: 30px;
+}
+
+#sexandguns .square {
+   width: 160px;
+   height: 110px;
+}
+
+#sexandguns .title {
+   width: 160px;
+   height: 25px;
+   font-family: shopping;
+   text-align: center;
+   font-size: 50px;
+   font-weight: 700;
+}
+
+td {
+   padding: 2px;
+}
+
+#sexandguns .text {
+   width: 138px;
+   font-size: 7px;
+   text-transform: uppercase;
+   line-height: 110%;
+   font-family: arial;
+   text-align: justify;
+   border: none;
+   margin-top: 15px;
+   margin-left: 10px;
+}
+
+#sexandguns img {
+   width: 100px;
+   height: 100px;
+   padding: 5px;
+}
